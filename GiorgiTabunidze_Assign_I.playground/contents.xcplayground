@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Exercise I - Palindrome'/>
+        <page name='Exercise II - Coin split'/>
+        <page name='Exercise III - Does not contain'/>
+        <page name='Exercise IV - Parenthesis checker'/>
+        <page name='Exercise V - Stair counter options'/>
+        <page name='Exercise VI - Data structures with delete in constant time'/>
+    </pages>
+</playground>
